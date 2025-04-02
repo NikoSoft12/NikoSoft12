@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikoSoft12
 - 👀 I’m interested in Malware testing
-- 🌱 I’m currently learning Lua
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach my yt channel Search nikosoft12 on youtube
 - 😄 Pronouns: he/him
 

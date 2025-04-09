@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikoSoft12
 - 👀 I’m interested in Malware testing
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning C#
 - 📫 How to reach my yt channel Search nikosoft12 on youtube
 - 😄 Pronouns: he/him
 - my discord non-display name - con112

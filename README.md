@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikoSoft12
 - 👀 I’m interested in Malware testing
-- 🌱 I’m currently learning kotlin (I have no interest in GDI)
+- 🌱 I’m currently learning python (Trying my best not to trigger Mood Swings)
 - 📫 How to reach my yt channel Search nikosoft12 on youtube
 - 😄 Pronouns: he/him
 - my discord non-display name - con112
